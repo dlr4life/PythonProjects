@@ -102,7 +102,7 @@ This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) 
 For any questions, feel free to reach out:
 
 - **Darryl Reed**
-- GitHub: [dlr4life](https://github.com/dlr4life/PythonProjects)
+- GitHub: [dlr4life](https://github.com/dlr4life)
 - Email: [dllreed85@yahoo.com](mailto:dllreed85@yahoo.com)
 
 ---
