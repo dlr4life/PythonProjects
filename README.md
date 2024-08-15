@@ -24,9 +24,12 @@ Below is a list of the projects available in this repository:
 - **Project 3: [To-Do List Task Manager](./toDoList)**
   - A Python script that is a task manager which handles a to-do list of tasks.
 
-- **Project4: [Bank Account System](./bankAccountSystem)**
+- **Project 4: [Bank Account System](./bankAccountSystem)**
   - A Python script that defines a BankAccount class that allows you to simulate basic bank account operations such as deposits and withdrawals.
 
+- **Project 5: [Web Scrapers](./webScrapers)**
+  - A group of Python scripts that scrapes data from websites and does different things…
+  
 *(More projects coming...)*
 
 Each project folder contains a `README.md` file with detailed information about the project, including setup instructions, usage examples, and any dependencies required.
