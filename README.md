@@ -20,7 +20,7 @@ Below is a list of the projects available in this repository:
 
 - **Project 2: [Celsius to Fahrenheit Converter](./tempConverter)**
   - A Python script converts a temperature value from Celsius to Fahrenheit.
-  - 
+
 *(More projects coming...)*
 
 Each project folder contains a `README.md` file with detailed information about the project, including setup instructions, usage examples, and any dependencies required.
