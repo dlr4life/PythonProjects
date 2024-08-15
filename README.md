@@ -102,8 +102,8 @@ This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) 
 For any questions, feel free to reach out:
 
 - **Your Name**
-- GitHub: [yourusername]([https://github.com/yourusername](https://github.com/dlr4life/PythonProjects))
-- Email: [youremail@example.com](mailto:dllreed85@yahoo.com)
+- GitHub: [dlr4life]([https://github.com/yourusername](https://github.com/dlr4life/PythonProjects))
+- Email: [dllreed85@yahoo.com](mailto:dllreed85@yahoo.com)
 
 ---
 
