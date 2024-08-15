@@ -23,7 +23,7 @@ Below is a list of the projects available in this repository:
 
 - **Project 3: [To-Do List Task Manager](./toDoList)**
   - A Python script that is a task manager which handles a to-do list of tasks.
-  - 
+
 *(More projects coming...)*
 
 Each project folder contains a `README.md` file with detailed information about the project, including setup instructions, usage examples, and any dependencies required.
