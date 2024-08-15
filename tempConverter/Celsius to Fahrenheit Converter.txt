@@ -1,0 +1,21 @@
+This Python script converts a temperature value from Celsius to Fahrenheit.
+
+Instructions:
+This script is a simple utility that prompts the user for a temperature in Celsius, converts it to Fahrenheit using a defined function, and prints the result.
+
+## Prerequisites
+- Python 3.x
+
+## Usage
+1. Clone or download this repository.
+2. Run the script using Python 3.x:
+
+   ```bash
+   python3 celsius_to_fahrenheit.py
+	3	When prompted, enter the temperature in Celsius.
+	4	The script will output the equivalent temperature in Fahrenheit.
+
+Example
+$ python3 celsius_to_fahrenheit.py 
+Enter the celsius temperature: 25 
+25.0 degrees celsius is equal to 77.0 degrees fahrenheit
