@@ -1,0 +1,47 @@
+Overview
+This Python script demonstrates a simple task manager that handles a to-do list of tasks. For each task, the script outputs the task name, its priority, and the estimated time required to complete it.
+Features
+	•	To-Do List: The script maintains a list of tasks that need to be completed.
+	•	Task Details: Each task in the list has associated details such as priority and estimated time.
+	•	Output: The script prints out each task's name, priority, and estimated time in a readable format.
+Code Explanation
+1. Task List
+The todo_list variable contains a list of tasks:
+todo_list = ["Buy groceries", "Clean house", "Walk dog"]
+
+2. Task Details
+The task_details dictionary contains detailed information for each task, including:
+	•	Priority: The urgency level of the task (e.g., High, Medium, Low).
+	•	Estimated Time: The estimated time required to complete the task.
+
+task_details = { "Buy groceries": {"priority": "High", "estimated_time": "1 hour"}, "Clean house": {"priority": "Medium", "estimated_time": "2 hours"}, "Walk dog": {"priority": "Low", "estimated_time": "30 minutes"} }
+
+3. Task Output
+The script iterates over each task in todo_list, retrieves the associated details from task_details, and prints them in a formatted manner:
+for task in todo_list: 
+print(f"Task: {task}") 
+print(f"Priority: {task_details[task]['priority']}") 
+print(f"Estimated time: {task_details[task]['estimated_time']}\n")
+
+Sample Output
+
+When the script is executed, the output will be:
+Task: Buy groceries
+Priority: High
+Estimated time: 1 hour
+
+Task: Clean house
+Priority: Medium
+Estimated time: 2 hours
+
+Task: Walk dog
+Priority: Low
+Estimated time: 30 minutes
+
+How to Run
+1	Copy the provided Python code into a .py file.
+2	Open a terminal and navigate to the directory containing the .py file.
+	-	Replace filename.py with the name of your Python file.
+3	Run the script using the following command:
+	⁃	python filename.py
+4	The script will output the task details in the terminal.
