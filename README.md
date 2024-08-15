@@ -18,7 +18,7 @@ Below is a list of the projects available in this repository:
 - **Project 1: [Triangle Area Calculator](./triangle_area_calculator)**
   - A simple script that calculates the area of a triangle based on user input.
 
-*(Add more projects as needed)*
+*(More projects coming...)*
 
 Each project folder contains a `README.md` file with detailed information about the project, including setup instructions, usage examples, and any dependencies required.
 
