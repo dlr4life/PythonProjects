@@ -15,7 +15,7 @@ Welcome to the **Python Projects Repository**! This repository contains a collec
 
 Below is a list of the projects available in this repository:
 
-- **Project 1: [Triangle Area Calculator](./triangleAreaCalculator)**
+- **Project 1: [Triangle Area Calculator](./triangle_area_calculator)**
   - A simple script that calculates the area of a triangle based on user input.
 
 *(Add more projects as needed)*
