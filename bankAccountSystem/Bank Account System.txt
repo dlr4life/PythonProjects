@@ -1,0 +1,38 @@
+Overview
+
+This Python script defines a BankAccount class that allows you to simulate basic bank account operations such as deposits and withdrawals. The class is designed to handle individual accounts, track the owner's name, and maintain the current balance.
+
+Features
+
+- Create an Account: Initialize a new bank account with an owner's name and an optional initial balance.
+- Deposit Money: Add funds to the account and update the balance.
+- Withdraw Money: Withdraw funds from the account, with a check to ensure sufficient funds are available.
+
+
+Example Usage
+
+# Creating an account with an initial balance
+my_account = BankAccount("John Doe", 1000)
+
+# Depositing money
+my_account.deposit(500)  # New balance: $1500
+
+# Withdrawing money
+my_account.withdraw(200)  # New balance: $1300
+
+Requirements
+
+    Python 3.x
+
+How to Run
+
+    Copy the provided Python code into a .py file.
+
+    Open a terminal and navigate to the directory containing the .py file.
+
+    Run the script using the following command:
+	python filename.py
+
+    Replace filename.py with the name of your Python file.
+
+    Use the class as demonstrated in the Example Usage section.
