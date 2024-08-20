@@ -29,7 +29,10 @@ Below is a list of the projects available in this repository:
 
 - **Project 5: [Web Scrapers](./webScrapers)**
   - A group of Python scripts that scrapes data from websites and does different things…
-  
+
+- **Project 6: [Minute Speller](./minuteSpeller)**
+  - A word game in Python, meant to test a users vocabulary to determine how many words they know.
+ 
 *(More projects coming...)*
 
 Each project folder contains a `README.md` file with detailed information about the project, including setup instructions, usage examples, and any dependencies required.
