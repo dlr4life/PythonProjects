@@ -1,4 +1,4 @@
-# Create a word game in Python, meant to test a users vocabulary to determine how many words they know. 
+# A word game meant to test a users vocabulary to determine how many words they know. 
 # Each round lasts sixty seconds, during which players submit as many words as possible, without repeating any, before the round is over. 
 # The game is able to recognize any entry made as a valid or invalid Merriam Webster Dictionary entry.
 
