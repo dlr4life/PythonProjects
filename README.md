@@ -31,7 +31,7 @@ Below is a list of the projects available in this repository:
   - A group of Python scripts that scrapes data from websites and does different things…
 
 - **Project 6: [Minute Speller](./minuteSpeller_basic)**
-  - A word game in Python, meant to test a users vocabulary to determine how many words they know.
+  - A word game in Python, meant to test a users vocabulary to determine how many words a player knows, without repeating any, ever!
  
 *(More projects coming...)*
 
