@@ -35,7 +35,7 @@ Below is a list of the projects available in this repository:
  
 *(More projects coming...)*
 
-Each project folder contains a `README.md` file with detailed information about the project, including setup instructions, usage examples, and any dependencies required.
+Each project folder contains a `.txt` file with detailed information about the project, including setup instructions, usage examples, and any dependencies required.
 
 ## Installation
 
